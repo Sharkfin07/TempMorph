@@ -4,7 +4,7 @@ TempMorph is a Python package that helps you convert a temperature from one scal
 
 # Install
 ```
-COMING SOON
+pip install tempmorph==0.0.1
 ```
 # Usage
 
@@ -37,3 +37,6 @@ temp_str.celcius(1)
 #                ^
 # By adding one as an argument, output will be '99.85 °C'
 ```
+
+# PyPI
+[Click here to open the PyPI site](https://pypi.org/project/tempmorph/0.0.1/)
